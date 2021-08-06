@@ -1,6 +1,9 @@
 # Mini Mill CNC Config
 
-Grbl config
+Using: https://github.com/gnea/grbl-Mega on MKS Gen 1.4 board
+
+Grbl Config
+
 ```
 $0=10
 $1=255
